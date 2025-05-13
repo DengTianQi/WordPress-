@@ -1,12 +1,6 @@
 
 2. 插件会自动显示名言，并每分钟更新一次
 
-## 技术特点
-- 使用 WordPress 简码系统
-- 采用 AJAX 技术实现无刷新更新
-- 响应式设计，适配各种设备
-- 安全的数据处理机制
-
 ## 安装说明
 1. 在 WordPress 后台进入"插件 > 安装插件"
 2. 点击"上传插件"
@@ -36,8 +30,8 @@ A: 目前插件固定为每分钟更新一次，如需修改请联系开发者�
 ## 技术支持
 如有任何问题或建议，请通过以下方式联系我们：
 - 提交 Issue
-- 发送邮件至：your-email@example.com
+- 发送邮件至：2178292921@qq.com
 
 ## 版权信息
-Copyright © 2024 Your Name
+Copyright © 2024 DengWeather
 Released under the GPL v2 or later license
